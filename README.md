@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibn2085
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning frontend
+- 👀 I’m a frontend web_developer
+- 🌱 working with Html, css and its frameWork, currently learning javascript.
 - 💞️ I’m looking to collaborate on with a team of developers 
 - 📫 How to reach me yahyahridwan665@gmail.com
 
