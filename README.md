@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ibn2085
-- 👀 I’m a frontend web_developer
-- 🌱 working with Html, css and its frameWork, currently learning javascript.
-- 💞️ I’m looking to collaborate on with a team of developers 
-- 📫 How to reach me yahyahridwan665@gmail.com
+- 👋 Hi, I’m Ridwanullah
+- 👀 I’m a frontend and a blockchain developer
+- 🌱 working with Reactjs, Solidity, firebase, Html, css (bootstrap, Material-UI), javascript(j-query).
+- 📫 How to reach me yahyahridwan665@gmail.com or on twitter @whitecode_
 
 <!---
-ibn2085/ibn2085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ibnyahyah/ibnyahyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
